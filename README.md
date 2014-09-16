@@ -1,5 +1,7 @@
 teste
 =====
 
-teste de comandos do git HUE \o/
-EL NUEVO
+teste de comandos do git HUE \o
+NOVO TESTE
+
+
