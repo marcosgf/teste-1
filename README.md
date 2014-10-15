@@ -1,8 +1,7 @@
 teste
 =====
 
-teste de comandos do git HUE \o
- chekcount!!!!!
+Teste pull
  
 
 
